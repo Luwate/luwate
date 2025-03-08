@@ -14,6 +14,8 @@ I'm passionate about leveraging **analytics, machine learning, and statistics** 
 ### 📌 **Featured Projects**
 | Project Name | Description | Tech Stack | Repo |
 |-------------|-------------|------------|------|
+| 🏦 **Reinforcement Learning Trading Bot** | PPO-based approach to create a trading bot that trades bitcoin. | Python, Gym, Stable Baselines 3 | [Repo Link](https://github.com/Luwate/rl-trading-bot) |
+
 | 🏦 **Road Accident Cause Prediction** | Random-Forest-based approach to predicting road accident causes | Python, SK-Learn | [Repo Link](https://github.com/Luwate/road-accident-cause-prediction) |
 | 📉 **Macroeconomic Indicator Prediction (In-progress)** | Bayesian models for forecasting GDP, CPI, etc. | Python, PyMC3, Time Series | [Repo Link](https://github.com/Luwate/macroeconomics-project) |
 | 💡 **Apple Sentiment Analysis** | NLP-based sentiment analysis on Apple tweets | Python, NLTK, Hugging Face | [Repo Link](https://github.com/Luwate/sentiment-analysis-apple) |
