@@ -34,8 +34,8 @@ Currently, I focus on **Bayesian macroeconomic forecasting**, **financial modeli
 - ☁️ **AWS Machine Learning Specialty (MLS-C01)**  
   Preparing for certification before deprecation — focusing on production ML systems, deployment, and scalable pipelines.
 
-- 📖 **Chartered Financial Analyst (CFA)**  
-  Formalizing and structuring the financial market knowledge built through active participation since 2022 (markets, risk, and valuation).
+- 📖 **Financial Risk Management (FRM)**  
+  Formalizing and structuring practical market experience since 2022 into a rigorous framework for risk measurement, modeling, and control.
 
 - ⚛️ **Quantum Physics (Personal Research Interest)**  
   Studying quantum mechanics as both a scientific curiosity and as a practical excuse to write mathematical simulations in **Julia**.
